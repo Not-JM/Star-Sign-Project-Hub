@@ -34,7 +34,7 @@ This specific site focuses on **Pisces**—a sign deeply rooted in compassion an
 While the core code, layout, and Pisces concept were built from scratch, this project utilizes the following high-quality assets to bring the cosmic theme to life:
 * **Fonts:** Libre Bakersfield via fonts.googleapis.com
 * **Icons & Vector Graphics:** Pisces Symbol (replacement Icon) - https://api.dicebear.com/10.x/icons/svg, Robot (replacement Icon) - https://api.dicebear.com/7.x/bottts/svg?seed=StarSign.
-* **AI Assistance:** Gemini 3.1 was utilized to help implement the fonts into this project.
+* **AI Assistance:** Gemini 3.1 Pro was utilized to help implement the fonts into this project and bugixes with the style of the header and footer organization. Gemini 3.5 Flash helped make the template for this README.md.
 
 ## 📦 How to Run Locally
 
